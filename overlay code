@@ -8,3 +8,10 @@ Overlay::addToFreeMap(
    https://www.postgresql.org/docs/9.3/static/runtime-config-wal.html
    
    https://w.amazon.com/index.php/RDS/Manfred/AtomicCommit
+
+//postgres code
+http://doxygen.postgresql.org/index_8c_source.html#l00683
+
+2. looking at overlay & file over code 
+
+3. understand RO replication
