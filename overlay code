@@ -1,0 +1,10 @@
+void
+Overlay::addToFreeMap(
+   VirtualPageId pageStart,
+   PageCount pagesCnt)
+   
+   
+   1. xue's db training : 
+   https://www.postgresql.org/docs/9.3/static/runtime-config-wal.html
+   
+   https://w.amazon.com/index.php/RDS/Manfred/AtomicCommit
